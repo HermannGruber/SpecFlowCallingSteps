@@ -1,0 +1,25 @@
+c:\users\hermanng\documents\visual studio 2017\Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\obj\Debug\SpecFlowCallingSteps.csprojResolveAssemblyReference.cache
+c:\users\hermanng\documents\visual studio 2017\Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\obj\Debug\SpecFlowCallingSteps.csproj.CoreCompileInputs.cache
+c:\users\hermanng\documents\visual studio 2017\Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\SpecFlowCallingSteps.dll.config
+c:\users\hermanng\documents\visual studio 2017\Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\SpecFlowCallingSteps.dll
+c:\users\hermanng\documents\visual studio 2017\Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\SpecFlowCallingSteps.pdb
+c:\users\hermanng\documents\visual studio 2017\Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\Newtonsoft.Json.dll
+c:\users\hermanng\documents\visual studio 2017\Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\nunit.framework.dll
+c:\users\hermanng\documents\visual studio 2017\Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\System.ValueTuple.dll
+c:\users\hermanng\documents\visual studio 2017\Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\hermanng\documents\visual studio 2017\Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\Newtonsoft.Json.xml
+c:\users\hermanng\documents\visual studio 2017\Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\nunit.framework.xml
+c:\users\hermanng\documents\visual studio 2017\Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\obj\Debug\SpecFlowCallingSteps.dll
+c:\users\hermanng\documents\visual studio 2017\Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\obj\Debug\SpecFlowCallingSteps.pdb
+C:\1_Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\SpecFlowCallingSteps.dll.config
+C:\1_Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\SpecFlowCallingSteps.dll
+C:\1_Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\SpecFlowCallingSteps.pdb
+C:\1_Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\Newtonsoft.Json.dll
+C:\1_Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\nunit.framework.dll
+C:\1_Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\System.ValueTuple.dll
+C:\1_Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\TechTalk.SpecFlow.dll
+C:\1_Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\Newtonsoft.Json.xml
+C:\1_Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\bin\Debug\nunit.framework.xml
+C:\1_Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\obj\Debug\SpecFlowCallingSteps.csproj.CoreCompileInputs.cache
+C:\1_Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\obj\Debug\SpecFlowCallingSteps.dll
+C:\1_Projects\SpecFlowCallingSteps\SpecFlowCallingSteps\obj\Debug\SpecFlowCallingSteps.pdb

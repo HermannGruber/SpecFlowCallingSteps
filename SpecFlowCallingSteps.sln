@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowCallingSteps", "SpecFlowCallingSteps\SpecFlowCallingSteps.csproj", "{CFB50162-7058-4F72-861E-2A45B8D96526}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB50162-7058-4F72-861E-2A45B8D96526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB50162-7058-4F72-861E-2A45B8D96526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB50162-7058-4F72-861E-2A45B8D96526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB50162-7058-4F72-861E-2A45B8D96526}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3273EA8-0CBA-49E0-BE05-AF6658116594}
+	EndGlobalSection
+EndGlobal
